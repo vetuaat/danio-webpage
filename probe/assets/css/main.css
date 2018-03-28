@@ -1806,6 +1806,7 @@
 
 	a {
 		color: #999999;
+		text-decoration-line: underline
 	}
 
 		a:hover {
